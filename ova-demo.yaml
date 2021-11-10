@@ -1,0 +1,25 @@
+app_id: devName
+title: productName1111
+version: 5.4.2-0
+revision: 3
+kind: ova
+image:
+  url: https://updates-jdjdljaadjdjadaieranadiaei-streaming.s3.amazonaws.com/release3.1-upgrade/RiskForesight_caveonix_com-Release3_1.ova
+eula_url: https://www.apache.org/licenses/LICENSE-2.0.txt
+eula_label: Product 2.0
+categories:
+- network
+logo: https://dyltqmyl993wv.cloudfront.net/assets/stacks/wordpress/img/wordpress-stack-110x117.png
+description: "Description for OVA image offering."
+readme: The full text for the required readme about the ova image.
+links:
+- id: docs_index
+    title: Getting started
+    url: https://docs.bitnami.com/vmware-marketplace/apps/wordpress/
+- id: support_index
+    title: Product Support
+    url: https://bitnami.com/support/vmware-marketplace
+
+Show less
+Language:
+
